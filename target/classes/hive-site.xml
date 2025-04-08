@@ -1,0 +1,13 @@
+<configuration>
+
+    <property>
+        <name>hive.metastore.uris</name>
+        <value>thrift://node1:9083</value>
+    </property>
+
+    <property>
+        <name>hive.server2.thrift.client.charset</name>
+        <value>UTF-8</value>
+    </property>
+
+</configuration>

@@ -1,0 +1,7 @@
+ads_apply_sum
+ads_lent_summary
+ads_loan_manager_pass
+ads_repay_sum
+ads_repay_sum_bl
+ads_repay_sum_overdue_amt
+ads_repay_sum_overdue_nums
